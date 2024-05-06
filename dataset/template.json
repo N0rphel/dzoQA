@@ -9,33 +9,13 @@
                     "qas":[
                         {
                             "question":"question",
+                            "id":"1234567",
                             "answers":[
                                 {
                                     "text":"text",
                                     "answer_start":123
                                 }
-                            ],
-                            "id":"1234567"
-                        },
-                        {
-                            "question":"question",
-                            "answers":[
-                                {
-                                    "text":"text",
-                                    "answer_start":123
-                                }
-                            ],
-                            "id":"1234567"
-                        },
-                        {
-                            "question":"question",
-                            "answers":[
-                                {
-                                    "text":"text",
-                                    "answer_start":123
-                                }
-                            ],
-                            "id":"1234567"
+                            ]
                         }
                     ]
                 }
